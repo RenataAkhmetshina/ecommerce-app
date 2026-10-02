@@ -1,1 +1,1 @@
-function processPayment() { return 'error'; }
+function processPayment() { return 'success'; }
